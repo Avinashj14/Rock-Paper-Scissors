@@ -53,6 +53,7 @@ body {
 
 .option_image img {
   width: 50px;
+  pointer-events: none;
 }
 .option_images {
   display: flex;
