@@ -1,0 +1,10 @@
+we will assign the varibles to the dom event to make the code neat
+
+1.we will add event listner to the option image which we are going to select 
+2. when the image is selected set that image to user result.
+3. select the randaom image for the cpu input 
+4 . setting that image to result of cpu 
+5 . now we will create out come  to compare the result.
+6. we will assing the waribles to the cpu and user value  
+7 . on the basis of the comparision of result with outcome .
+8 we will declare the the result and display it 
